@@ -1,0 +1,19 @@
+
+img{
+    border-radius: 50%;
+    height: 200;
+    width: 200;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
